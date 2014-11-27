@@ -1,4 +1,4 @@
 Xamarin
 =======
 
-Repo com aulas, exemplos, praticas e tidos sobre C# usando Xamarin
+Repo com aulas, exemplos, praticas e tudo sobre C# usando Xamarin
