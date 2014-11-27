@@ -1,0 +1,13 @@
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\bin\Debug\Ola_codDiretoLayout.dll
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\bin\Debug\Ola_codDiretoLayout.pdb
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\bin\Debug\Ola_codDiretoLayout.dll.mdb
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\bin\Debug\Ola_codDiretoLayout.Ola_codDiretoLayout.apk
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\bin\Debug\Ola_codDiretoLayout.Ola_codDiretoLayout-Signed.apk
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\obj\Debug\Ola_codDiretoLayout.dll
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\obj\Debug\Ola_codDiretoLayout.pdb
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\obj\Debug\android\bin\Ola_codDiretoLayout.Ola_codDiretoLayout.apk
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\obj\Debug\res\layout\main.xml
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\obj\Debug\res\values\strings.xml
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\obj\Debug\res\drawable\icon.png
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\obj\Debug\R.cs.flag
+E:\Repositorios\Xamarin\Lab1\Ola_codDiretoLayout\Ola_codDiretoLayout\obj\Debug\uploadflags.txt
