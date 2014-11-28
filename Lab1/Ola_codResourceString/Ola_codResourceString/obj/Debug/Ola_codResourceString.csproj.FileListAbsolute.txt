@@ -1,0 +1,13 @@
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\bin\Debug\Ola_codResourceString.dll
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\bin\Debug\Ola_codResourceString.pdb
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\bin\Debug\Ola_codResourceString.dll.mdb
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\bin\Debug\Ola_codResourceString.Ola_codResourceString.apk
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\bin\Debug\Ola_codResourceString.Ola_codResourceString-Signed.apk
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\obj\Debug\Ola_codResourceString.dll
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\obj\Debug\Ola_codResourceString.pdb
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\obj\Debug\android\bin\Ola_codResourceString.Ola_codResourceString.apk
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\obj\Debug\res\layout\main.xml
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\obj\Debug\res\values\strings.xml
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\obj\Debug\res\drawable\icon.png
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\obj\Debug\R.cs.flag
+E:\Repositorios\Xamarin\Lab1\Ola_codResourceString\Ola_codResourceString\obj\Debug\uploadflags.txt
