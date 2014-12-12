@@ -1,0 +1,14 @@
+D:\Projetos\Xamarin\Layout\Contatos\bin\Debug\Contatos.dll
+D:\Projetos\Xamarin\Layout\Contatos\bin\Debug\Contatos.pdb
+D:\Projetos\Xamarin\Layout\Contatos\bin\Debug\Contatos.dll.mdb
+D:\Projetos\Xamarin\Layout\Contatos\bin\Debug\Contatos.Contatos.apk
+D:\Projetos\Xamarin\Layout\Contatos\bin\Debug\Contatos.Contatos-Signed.apk
+D:\Projetos\Xamarin\Layout\Contatos\obj\Debug\Contatos.dll
+D:\Projetos\Xamarin\Layout\Contatos\obj\Debug\Contatos.pdb
+D:\Projetos\Xamarin\Layout\Contatos\obj\Debug\android\bin\Contatos.Contatos.apk
+D:\Projetos\Xamarin\Layout\Contatos\obj\Debug\res\layout\main.xml
+D:\Projetos\Xamarin\Layout\Contatos\obj\Debug\res\values\strings.xml
+D:\Projetos\Xamarin\Layout\Contatos\obj\Debug\res\drawable\icon.png
+D:\Projetos\Xamarin\Layout\Contatos\obj\Debug\res\drawable\sisaut.png
+D:\Projetos\Xamarin\Layout\Contatos\obj\Debug\R.cs.flag
+D:\Projetos\Xamarin\Layout\Contatos\obj\Debug\uploadflags.txt

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="vertical"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/linearLayout1"
+    p1:background="#ff807979">
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="432.2dp"
+        p1:id="@+id/linearLayout2"
+        p1:background="@drawable/FundoAcesso">
+        <LinearLayout
+            p1:orientation="horizontal"
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:layout_width="match_parent"
+            p1:layout_height="85.3dp"
+            p1:id="@+id/linearLayout3"
+            p1:layout_marginTop="20dp">
+            <Button
+                p1:text="Cadastrar Endereço"
+                p1:layout_width="143.6dp"
+                p1:layout_height="match_parent"
+                p1:id="@+id/btPrincipalCadEndereco"
+                p1:textSize="14dp"
+                p1:background="@android:drawable/btn_default"
+                p1:textColor="@android:color/black"
+                p1:layout_marginLeft="16dp"
+                p1:drawableTop="@drawable/MNovo" />
+            <Button
+                p1:text="Consultar   Endereço"
+                p1:layout_width="143.6dp"
+                p1:layout_height="match_parent"
+                p1:textSize="14dp"
+                p1:background="@android:drawable/btn_default"
+                p1:textColor="@android:color/black"
+                p1:id="@+id/btPrincipalConsEndereco"
+                p1:drawableTop="@drawable/MConsulta" />
+        </LinearLayout>
+        <LinearLayout
+            p1:orientation="horizontal"
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:layout_width="match_parent"
+            p1:layout_height="109.0dp"
+            p1:id="@+id/linearLayout4"
+            p1:layout_marginTop="15dp">
+            <Button
+                p1:text="Consultar    Usuários"
+                p1:layout_width="143.6dp"
+                p1:layout_marginLeft="16dp"
+                p1:layout_height="wrap_content"
+                p1:id="@+id/btPrincipalConsUsuario"
+                p1:textSize="14dp"
+                p1:background="@android:drawable/btn_default"
+                p1:textColor="@android:color/black"
+                p1:drawableTop="@drawable/MUser" />
+            <Button
+                p1:text="Sair"
+                p1:layout_width="143.6dp"
+                p1:layout_height="84.9dp"
+                p1:id="@+id/btPrincipalSair"
+                p1:textSize="14dp"
+                p1:textColor="@android:color/black"
+                p1:drawableTop="@drawable/MExit"
+                p1:layout_marginTop="8dp"
+                p1:background="@android:drawable/btn_default" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        p1:text="Small Text"
+        p1:textAppearance="?android:attr/textAppearanceSmall"
+        p1:layout_width="match_parent"
+        p1:layout_height="19.4dp"
+        p1:id="@+id/tvPrincipalUsuario"
+        p1:layout_marginLeft="5dp"
+        p1:layout_marginTop="5dp"
+        p1:textColor="#ffffffff" />
+</LinearLayout>

@@ -1,0 +1,15 @@
+D:\Projetos\Xamarin\Layout\Componentes1\bin\Release\Teste.dll
+D:\Projetos\Xamarin\Layout\Componentes1\bin\Release\Teste.Teste.apk
+D:\Projetos\Xamarin\Layout\Componentes1\bin\Release\Teste.Teste-Signed.apk
+D:\Projetos\Xamarin\Layout\Componentes1\bin\Release\AlertCenter.Android.dll
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\Teste.dll
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\android\bin\Teste.Teste.apk
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\res\layout\main.xml
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\res\layout\telaprincipal.xml
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\res\layout\telanova.xml
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\res\drawable\sisaut.png
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\res\drawable\sisaut_logo.png
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\res\values\strings.xml
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\res\drawable\icon.png
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\R.cs.flag
+D:\Projetos\Xamarin\Layout\Componentes1\obj\Release\uploadflags.txt

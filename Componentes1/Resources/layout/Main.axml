@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="60dp"
+    android:background="#ff9fc3de">
+    <TextView
+        android:text="Acesso"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtAcesso"
+        android:gravity="center"
+        android:textColor="#fff4f4f4"
+        android:background="#ff1986da" />
+    <Button
+        android:id="@+id/MyButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Hello"
+        android:scrollbarStyle="insideOverlay"
+        android:typeface="normal"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="49.7dp"
+        android:id="@+id/linearLayout1"
+        android:layout_marginTop="35dp"
+        android:background="#ff34b6f7"
+        android:layout_marginBottom="4.1dp">
+        <Button
+            android:text="Sobre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btAlert"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp" />
+    </LinearLayout>
+    <ImageView
+        android:src="@drawable/sisaut_logo"
+        android:layout_width="match_parent"
+        android:layout_height="238.9dp"
+        android:id="@+id/imageView1"
+        android:layout_marginBottom="0.0dp"
+        android:background="#ffffffff"
+        android:layout_marginTop="15dp" />
+</LinearLayout>

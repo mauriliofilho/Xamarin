@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/scrollView2">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical"
+        android:overScrollMode="always"
+        android:verticalScrollbarPosition="right"
+        android:scrollbarStyle="insideOverlay">
+        <EditText
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtPassword"
+            android:hint="Digite sua senha" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtPasswordResult"
+            android:gravity="left"
+            android:textColor="#ffebe018"
+            android:paddingLeft="5dp" />
+        <RadioButton
+            android:text="Vermelho"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rbCor1"
+            android:textColor="#ffdd1414" />
+        <RadioButton
+            android:text="Azul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rbCor2"
+            android:textColor="#ff1d31dc" />
+        <RadioButton
+            android:text="Verde"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rbCor3"
+            android:textColor="#ff23ae56" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtCorResult"
+            android:textColor="#fff0e010"
+            android:paddingLeft="5dp" />
+        <CheckBox
+            android:text="Gol"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/chkCarro1" />
+        <CheckBox
+            android:text="Vectra"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/chkCarro2" />
+        <CheckBox
+            android:text="Meriva"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/chkCarro3" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtCarroResult"
+            android:textColor="#fff1ec0b"
+            android:paddingLeft="5dp" />
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sbBilho" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtBilhoResult"
+            android:textColor="#fff6f214"
+            android:paddingLeft="5dp" />
+        <TableLayout
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableLayout1" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="50.5dp"
+            android:id="@+id/linearLayout1">
+            <Button
+                android:text="Exibir"
+                android:layout_width="261.6dp"
+                android:layout_height="53.2dp"
+                android:id="@+id/btExibir"
+                android:layout_marginLeft="30.0dp" />
+        </LinearLayout>
+        <EditText
+            android:inputType="textMultiLine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtAux"
+            android:hint="Texto a ser carregado em nova tela"
+            android:layout_marginTop="10dp" />
+        <Button
+            android:text="Carregar"
+            android:layout_width="251.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btCarregar"
+            android:layout_marginLeft="33.9dp"
+            android:layout_marginTop="0.1dp" />
+    </LinearLayout>
+</ScrollView>

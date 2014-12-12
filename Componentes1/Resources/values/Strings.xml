@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="Hello">Clique aqui para entrar</string>
+	<string name="ApplicationName">Componentes1</string>
+</resources>

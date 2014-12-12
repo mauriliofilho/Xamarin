@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Teste.Teste">
+  <uses-sdk android:minSdkVersion="16" />
+  <application android:icon="@drawable/sisaut" android:label="Teste" android:debuggable="false" android:name="mono.android.app.Application">
+    <activity android:icon="@drawable/sisaut" android:label="Teste" android:theme="@android:style/Theme.NoTitleBar" android:name="componentes1.MainActivity" />
+    <activity android:label="TelaPrincialActivity" android:theme="@android:style/Theme.NoTitleBar" android:name="componentes1.TelaPrincialActivity" />
+    <activity android:label="TelaNovaActivity" android:theme="@android:style/Theme.NoTitleBar" android:name="componentes1.TelaNovaActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Teste.Teste.mono.MonoRuntimeProvider.__mono_init__" />
+    <activity android:icon="@drawable/sisaut" android:label="Teste" android:theme="@style/Mono.Android.Theme.Splash" android:name="teste.teste.TrialSplashScreen" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+</manifest>

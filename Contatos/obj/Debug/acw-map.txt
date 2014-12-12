@@ -1,0 +1,2 @@
+Contatos.ContactsAdapter;contatos.ContactsAdapter
+Contatos.MainActivity;contatos.MainActivity

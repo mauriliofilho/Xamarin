@@ -1,0 +1,2 @@
+D:\Projetos\Xamarin\Layout\Componentes1\bin\Debug\Teste.dll
+D:\Projetos\Xamarin\Layout\Components\alert-center-1.0.3\lib\android\AlertCenter.Android.dll

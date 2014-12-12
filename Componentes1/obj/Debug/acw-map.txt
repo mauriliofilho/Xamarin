@@ -1,0 +1,8 @@
+Componentes1.MainActivity;componentes1.MainActivity
+Componentes1.TelaPrincialActivity;componentes1.TelaPrincialActivity
+Componentes1.TelaNovaActivity;componentes1.TelaNovaActivity
+Xamarin.Controls.NotificationView;xamarin.controls.NotificationView
+Xamarin.Controls.OnTouchListener;xamarin.controls.OnTouchListener
+Xamarin.Controls.CloseTask;xamarin.controls.CloseTask
+Xamarin.Controls.AlertCenterHandler;xamarin.controls.AlertCenterHandler
+Xamarin.Controls.ContinueAction;xamarin.controls.ContinueAction

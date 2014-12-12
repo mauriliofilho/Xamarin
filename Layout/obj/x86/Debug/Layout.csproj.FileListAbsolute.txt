@@ -1,0 +1,14 @@
+D:\Projetos\Xamarin\Layout\Layout\bin\x86\Debug\Layout.dll
+D:\Projetos\Xamarin\Layout\Layout\bin\x86\Debug\Layout.pdb
+D:\Projetos\Xamarin\Layout\Layout\bin\x86\Debug\Layout.dll.mdb
+D:\Projetos\Xamarin\Layout\Layout\bin\x86\Debug\Layout.Layout.apk
+D:\Projetos\Xamarin\Layout\Layout\bin\x86\Debug\Layout.Layout-Signed.apk
+D:\Projetos\Xamarin\Layout\Layout\obj\x86\Debug\Layout.dll
+D:\Projetos\Xamarin\Layout\Layout\obj\x86\Debug\Layout.pdb
+D:\Projetos\Xamarin\Layout\Layout\obj\x86\Debug\android\bin\Layout.Layout.apk
+D:\Projetos\Xamarin\Layout\Layout\obj\x86\Debug\res\layout\main.xml
+D:\Projetos\Xamarin\Layout\Layout\obj\x86\Debug\res\values\strings.xml
+D:\Projetos\Xamarin\Layout\Layout\obj\x86\Debug\res\drawable\icon.png
+D:\Projetos\Xamarin\Layout\Layout\obj\x86\Debug\R.cs.flag
+D:\Projetos\Xamarin\Layout\Layout\obj\x86\Debug\uploadflags.txt
+D:\Projetos\Xamarin\Layout\Layout\obj\x86\Debug\Layout.csprojResolveAssemblyReference.cache

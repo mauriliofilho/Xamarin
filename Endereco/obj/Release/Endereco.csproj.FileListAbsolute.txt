@@ -1,0 +1,12 @@
+D:\Projetos\Xamarin\Layout\Endereco\bin\Release\Endereco.dll
+D:\Projetos\Xamarin\Layout\Endereco\bin\Release\Endereco.pdb
+D:\Projetos\Xamarin\Layout\Endereco\bin\Release\Endereco.Endereco.apk
+D:\Projetos\Xamarin\Layout\Endereco\bin\Release\Endereco.Endereco-Signed.apk
+D:\Projetos\Xamarin\Layout\Endereco\obj\Release\Endereco.dll
+D:\Projetos\Xamarin\Layout\Endereco\obj\Release\Endereco.pdb
+D:\Projetos\Xamarin\Layout\Endereco\obj\Release\android\bin\Endereco.Endereco.apk
+D:\Projetos\Xamarin\Layout\Endereco\obj\Release\res\layout\acesso.xml
+D:\Projetos\Xamarin\Layout\Endereco\obj\Release\res\values\strings.xml
+D:\Projetos\Xamarin\Layout\Endereco\obj\Release\res\drawable\icon.png
+D:\Projetos\Xamarin\Layout\Endereco\obj\Release\R.cs.flag
+D:\Projetos\Xamarin\Layout\Endereco\obj\Release\uploadflags.txt

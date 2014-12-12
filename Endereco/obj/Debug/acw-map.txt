@@ -1,0 +1,8 @@
+Endereco.Acesso;endereco.Acesso
+Endereco.Screens.Principal;endereco.screens.Principal
+Endereco.UsuarioListAdapter;endereco.UsuarioListAdapter
+Endereco.Usuario;endereco.Usuario
+Xamarin.AsyncQuery`1;xamarin.AsyncQuery_1
+Xamarin.Geolocation.GeolocationContinuousListener;xamarin.geolocation.GeolocationContinuousListener
+Xamarin.Geolocation.GeolocationSingleListener;xamarin.geolocation.GeolocationSingleListener
+Xamarin.Media.MediaPickerActivity;xamarin.media.MediaPickerActivity
