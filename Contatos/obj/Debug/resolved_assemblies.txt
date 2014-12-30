@@ -1,1 +1,1 @@
-D:\Projetos\Xamarin\Layout\Contatos\bin\Debug\Contatos.dll
+C:\Users\Maurilio\Documents\GitHub\Xamarin\Contatos\bin\Debug\Contatos.dll
