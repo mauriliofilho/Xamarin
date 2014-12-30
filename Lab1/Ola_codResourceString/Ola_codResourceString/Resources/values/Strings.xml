@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<string name="helloButtonText">Diga Ola!</string>
-	<string name= "helloLabelText">Olá Xamarin.Android</string>
-	<string name="app_name">Clique Me</string>
-</resources>

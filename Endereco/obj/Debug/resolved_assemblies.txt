@@ -1,2 +1,0 @@
-D:\Projetos\Xamarin\Layout\Endereco\bin\Debug\Endereco.dll
-D:\Projetos\Xamarin\Layout\Components\xamarin.mobile-0.7.4\lib\android\Xamarin.Mobile.dll

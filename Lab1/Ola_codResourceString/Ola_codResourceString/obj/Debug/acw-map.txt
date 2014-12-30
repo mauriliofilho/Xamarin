@@ -1,1 +1,0 @@
-Ola_codResourceString.MainActivity;ola_codresourcestring.MainActivity
